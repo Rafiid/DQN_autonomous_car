@@ -1,5 +1,5 @@
 # DQN agent for autonomous car
-The project includes an python agent using the Deep Q-Network (DQN) algorithm and neural network. It also includes a simple environment made in unity. Agent's goal is to drive the track without touching the edge of the road. Its speed is constant and unchanging. The only available actions are turn left or right and do nothing. It collects knowledge about the environment from 15 sensors that control leaving the road and 4 sensors that check contact with checkpoints set along the route. To do this, agent uses an epsilon-greedy strategy with decaying epsilon.
+The project includes an python agent using the Deep Q-Network (DQN) algorithm and neural network. It also includes a simple environment made in unity using the Unity ML-Agents Toolkit that allows for communication between the environment and the agent. Agent's goal is to drive the track without touching the edge of the road. Its speed is constant and unchanging. The only available actions are turn left or right and do nothing. It collects knowledge about the environment from 15 sensors that control leaving the road and 4 sensors that check contact with checkpoints set along the track. To do this, agent uses an epsilon-greedy strategy with decaying epsilon.
 
 # Content
 - DQN agent
