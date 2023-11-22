@@ -8,7 +8,8 @@ The project includes an python agent using the Deep Q-Network (DQN) algorithm an
 
 # Example of track and agent in environment
 ![image](https://github.com/Rafiid/DQN_autonomous_car/assets/79717572/5126bad2-54e6-4e78-ac2a-d3a22b7a4549)
-![image](https://github.com/Rafiid/DQN_autonomous_car/assets/79717572/f0240243-4e94-4d96-9310-863b16c61cd1)
+![image](https://github.com/Rafiid/DQN_autonomous_car/assets/79717572/fa99c5cd-d80f-4092-bf4e-6519555a1496)
+
 
 
 # Installation
